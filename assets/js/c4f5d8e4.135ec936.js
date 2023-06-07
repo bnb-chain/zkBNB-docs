@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzkbnb_docs=self.webpackChunkzkbnb_docs||[]).push([[4195],{62841:(e,t,n)=>{n.r(t),n.d(t,{default:()=>d});var c=n(67294),s=n(16550);function d(){return c.createElement(s.l_,{to:"/zkBNB-docs/docs/guide/introduction/getting-started"})}}}]);
