@@ -141,8 +141,15 @@ const config = {
             },
           }
         }
-      }
-    ]
+      },
+    ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-LSRFL0KHRR',
+        anonymizeIP: true,
+      },
+    ],
   ],
 
   themes: ["docusaurus-theme-openapi-docs"]
